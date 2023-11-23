@@ -57,7 +57,7 @@ function Header({ NavItems }) {
                     {NavItems.map((item, key) => {
                         return (
                             <li key={key} className={`p-5 text-center`}>
-                                    <Link  className={item.to === curLinkPath ? `font-bold w-full text-sky-300 border-b-2 p-1 border-sky-300 ` : 'font-bold w-full text-orange-300 hover:text-orange-500 p-1'} id='nav-links' to={item.to}>{item.name}</Link>
+                                    <Link  className={item.to === curLinkPath ? `font-bold w-full text-orange-500 border-b-2 p-1 border-orange-500 ` : 'font-bold w-full text-orange-300 hover:text-orange-500 p-1'} id='nav-links' to={item.to}>{item.name}</Link>
                             </li>
                         )
                     })}

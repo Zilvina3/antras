@@ -18,7 +18,7 @@ function Layout({ children }) {
             to: '/konsultacija'
         },
         {
-            name: 'Santikių suderinimas',
+            name: 'Santykių suderinimas',
             to: '/suderinimas'
         },
         // {

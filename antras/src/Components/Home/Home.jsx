@@ -47,7 +47,7 @@ function Home() {
             </div>
 
             <p className='pb-5 text-xl text-justify'>
-              Pažinimo ir tobulėjimo keliu pati einu jau daugiau nei dvi dešimtis metų. Per savo karjerą mėginau žiūrėti į žvaigždes, stengiausi net kyštelti nosį anapus ar perskaityti subtiliųjų energijų padiktuotas žinutes psichologijos kortose. Šie įdomūs, bet sunkiai įveikiami laipteliai galiausiai mane atvedė prie suvokimo, kad tikroji jėga slypi pačio žmogaus sielos, kūno ir proto harmonijoje. Būtent čia glūdi įstabi savęs ir pasaulio pažinimo dovana, kurią tikslingai veikdami kiekvienas galime išpakuoti. Tad, jeigu jaučiatės pasirengę pasikeisti, kviečiu prisijungti prie manęs. Kartu galėsime pažvelgti į praeitį, dabartį ir ateitį bei nuspręsti, kokius žingsnius reikia žengti, kad taptumėte laimingesni ir sėkmingesni.
+              Pažinimo ir tobulėjimo keliu pati einu jau daugiau nei dvi dešimtis metų. Per savo karjerą mėginau žiūrėti į žvaigždes, stengiausi net kyštelti nosį anapus ar perskaityti subtiliųjų energijų padiktuotas žinutes psichologijos kortose. Šie įdomūs, bet sunkiai įveikiami laipteliai galiausiai mane atvedė prie suvokimo, kad tikroji jėga slypi pačio žmogaus sielos, kūno ir proto harmonijoje. Būtent čia glūdi įstabi savęs ir pasaulio pažinimo dovana, kurią tikslingai veikdami kiekvienas galime išpakuoti. Tad, jeigu jaučiatės pasirengę pasikeisti, kviečiu prisijungti. Kartu galėsime pažvelgti į praeitį, dabartį ir ateitį bei nuspręsti, kokius žingsnius reikia žengti, kad taptumėte laimingesni ir sėkmingesni.
             </p>
             <div>
               <button type='button' onClick={() => { navigate('/susisiekti') }} className='py-5 px-8  rounded-xl bg-orange-300 my-5

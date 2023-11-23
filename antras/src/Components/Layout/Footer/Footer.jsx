@@ -46,7 +46,7 @@ function Footer({ footNavLinks }) {
     <footer className='flex flex-wrap justify-around p-10 border-t-4 border-orange-300 '>
       <RevealOnScroll>
         <section className='text-center w-34 max-sm:p-5'>
-          <h1 className='text-4xl font-bold text-sky-300'>Meniu</h1>
+          <h1 className='text-4xl font-bold text-orange-500'>Meniu</h1>
           <ul>
             {footNavLinks.map((link, key) => {
               return (
@@ -63,7 +63,7 @@ function Footer({ footNavLinks }) {
 
       <RevealOnScroll>
         <section className='text-center w-34 max-sm:p-5'>
-          <h1 className='text-4xl text-center  font-bold text-sky-300'>Susisiekti</h1>
+          <h1 className='text-4xl text-center  font-bold text-orange-500'>Susisiekti</h1>
           <ul className='font-bold'>
             <li className='text-orange-300 p-0.5'>neringa.saladze@gmail.com</li>
             <li className='text-orange-300 p-0.5'>+370 684 80989</li>
