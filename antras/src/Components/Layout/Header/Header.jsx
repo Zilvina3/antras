@@ -69,7 +69,7 @@ function Header({ NavItems }) {
                     {NavItems.map((item, key) => {
                         return (
                             <li key={key} onClick={()=> {setToggleNav(false)}} className={`p-5 li_remove max-lg:w-3/5 max-sm:w-full `}>
-                                <Link className={ item.to === curLinkPath ? 'font-bold text-sky-300 border-b-2 p-1 border-sky-300' : 'font-bold text-orange-300 hover:text-orange-500' } id='nav-links' to={item.to}>{item.name}</Link>
+                                <Link className={ item.to === curLinkPath ? 'font-bold text-orange-500 border-b-2 p-1 border-orange-500' : 'font-bold text-orange-300 hover:text-orange-500' } id='nav-links' to={item.to}>{item.name}</Link>
                             </li>
                         )
                     })}

@@ -36,14 +36,14 @@ function Home() {
             </p>
 
             <div className='flex justify-center w-full py-20'>
-              <img src={neringaFt3} alt="Neringa" width={300}/>
+              <img src={neringaFt3} alt="Neringa" width={400}/>
             </div>
 
-            <p className='pb-5 text-xl text-justify'>Esu tam, kad padėčiau visiems norintiems susipažinti su tikruoju savimi. Sielos paveikslas ne visada atitinka susikurtus lūkesčius. Juk ir neturi atitikti! Visgi turime galią šiek tiek pataisyti spalvas bei pustonius. Ir taip patobulėję, išdrįsti žengti nauju, gerokai šviesesniu taku. Kviečiu statyti naujus tiltus ir kreipti savosios gyvenimo upės vagas su sąmoningumu bei dėkingumu. Tai padaryti kiekvienas turi pats. Aš galiu tik palydėti it jau šioje kelionėje ne kartą pabuvosi gidė ar it palaikanti mokytoja išmokyti naudotis pačiais efektyviausiais įrankiais, kuriais mus apdovanojo gamta – dėmesingumu, kvėpavimu ir nuo prietarų laisva mąstysena.
+            <p className='pb-5 text-xl text-justify'>Esu tam, kad padėčiau visiems norintiems susipažinti su tikruoju savimi. Sielos paveikslas ne visada atitinka susikurtus lūkesčius. Juk ir neturi atitikti! Visgi turime galią šiek tiek pataisyti spalvas bei atspalvius. Ir taip patobulėję, išdrįsti žengti nauju, gerokai šviesesniu taku. Kviečiu statyti naujus tiltus ir kreipti savosios gyvenimo upės vagas su sąmoningumu bei dėkingumu. Tai padaryti kiekvienas turi pats. Aš galiu tik palydėti it jau šioje kelionėje ne kartą pabuvosi gidė ar it palaikanti mokytoja išmokyti naudotis pačiais efektyviausiais įrankiais, kuriais mus apdovanojo gamta – dėmesingumu, kvėpavimu ir nuo prietarų laisva mąstysena.
             </p>
 
             <div className='flex justify-center w-full py-20'>
-              <img src={newSecond} alt="Neringa" />
+              <img src={newSecond} alt="Neringa" width={800}/>
             </div>
 
             <p className='pb-5 text-xl text-justify'>

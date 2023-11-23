@@ -1,6 +1,16 @@
 import React from 'react'
 
 function News() {
+
+  // const news = [
+  //   {
+  //     article: 1,
+  //     name:  'Pažintis Gyvenimo ratas',
+  //     title: 'Balanso ratas – testas, padedantis rasti kelią į laimę',
+  //     text: ''
+  //   }
+  // ]
+
   return (
     <main className='min-h-screen py-8 bg-black font-serif'>
     <section className='container m-auto p-32 max-sm:p-8 animate-fade-up animate-duration-1500 animate-ease-in'>
